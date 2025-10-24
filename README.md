@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente sou estudande da Universidade de Vila Velha e curso Ciências da Computação bacharelado 4° período
+- 🔭 Atualmente estou cursando Ciências da Computação na Universidade de Vila Velha (UVV) bacharelado 4° período
 - 🌱 Além das matérias da grade do 4° período estudo microsoft Power BI na data sciencie academy e inglês
 - 📧 email para contato: bonofeitosa@gmail.com
 - 📞 telefone: (27) 99801-1524
@@ -29,7 +29,6 @@
   <a href = "bonofeitosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-rosa-774834394" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonardoSou7/LeonardoSou7/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonardoSou7/LeonardoSou7/output/github-contribution-grid-snake.svg">
@@ -37,4 +36,5 @@
 </picture>
 
 <br><br>
+
 
