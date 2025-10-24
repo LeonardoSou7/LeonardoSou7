@@ -1,9 +1,6 @@
 ## Olá! Meu nome é Leonardo Rosa
 
 
-**LeonardoSou7/LeonardoSou7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Atualmente sou estudande da Universidade de Vila Velha e curso Ciências da Computação bacharelado 4° período
 - 🌱 Além das matérias da grade do 4° período estudo microsoft Power BI na data sciencie academy e inglês
@@ -36,7 +33,7 @@ Here are some ideas to get you started:
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonardoSou7/LeonardoSou7/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonardoSou7/LeonardoSou7/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeonardoSou7/LeonardoSou7/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mari4souza/Mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br><br>
